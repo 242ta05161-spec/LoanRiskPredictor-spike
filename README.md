@@ -1,4 +1,9 @@
-# LoanRiskPredictor-spike
+TEAM NAME:SPIKE
+TEAM NAME:K.Sufala Reddy
+          K.Anu Ananda
+          K.Vidya Sree
+          K.Tejaswini
+ ### LoanRiskPredictor-spike
 1. Introduction
 Financial institutions require reliable systems to assess borrower risk while maintaining fairness, transparency, and efficiency. Manual assessment alone is time-consuming and prone to inconsistencies. Automated systems must therefore balance structured scoring with human oversight. This project demonstrates a hybrid model that automates risk evaluation while preserving manual review for borderline cases.
 2. Problem Context
